@@ -1,2 +1,5 @@
 data
 wget.exe
+*.txt
+*.csv
+unicamp_key
