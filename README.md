@@ -14,4 +14,12 @@ Fine-tuning BERT variant using Huggingface.
 
 5_6 - [Hu, E.J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L. and Chen, W., 2021. Lora: Low-rank adaptation of large language models. arXiv preprint arXiv:2106.09685.](https://arxiv.org/abs/2106.09685)
 
+6_7 - Finetuning Phi 1.5B for sentence classification with QLoRA
+
+7_8 - Sentiment Analysis with llama3-70b using ngroq
+
+8_9 - [Pereira, Jayr, et al. "Visconde: Multi-document qa with gpt-3 and neural reranking." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2023.](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_44)
+
+10_11 - [Es, Shahul, et al. "Ragas: Automated evaluation of retrieval augmented generation." arXiv preprint arXiv:2309.15217 (2023).](https://arxiv.org/abs/2309.15217)
+
 email: matheusrdgsf@gmail.com / mrsf@cin.ufpe.br
